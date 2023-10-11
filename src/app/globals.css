@@ -18,6 +18,10 @@
 
 body {
   color: rgb(var(--foreground-rgb));
+  max-width: 500px;
+  max-height: 500px;
+  margin-top: 500px;
+  margin-left: 500px;
   background: linear-gradient(
       to bottom,
       transparent,
